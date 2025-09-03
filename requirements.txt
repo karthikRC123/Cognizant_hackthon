@@ -1,2 +1,5 @@
-streamlit
-pycryptodome
+Flask
+Flask-Limiter
+argon2-cffi
+cryptography
+PyJWT[crypto]
